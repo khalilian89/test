@@ -1,2 +1,2 @@
 # test# 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+[![Github All Releases](https://img.shields.io/github/downloads/khalilian89/test/total.svg)]()
