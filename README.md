@@ -1,13 +1,4 @@
 # test# 
 
-
-  ![GitHub repo file count](https://img.shields.io/github/directory-file-count/khalilian89/MSEdgeRedirect?style=plastic)
-
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/khalilian89/MSEdgeRedirect?style=plastic)
-
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/khalilian89/MSEdgeRedirect)
-
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/khalilian89/MSEdgeRedirect?style=flat-square)
-
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/khalilian89/MSEdgeRedirect?style=for-the-badge)
+[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
