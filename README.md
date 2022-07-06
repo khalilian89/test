@@ -1,8 +1,8 @@
-# Test #
-
-
-<img src="https://www.mcselec.com/images/stories/mcse/avr_logo.png" height="45" hspace="150">
-<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" height="45" hspace="150">
+<p align="center">
+<img src="https://www.mcselec.com/images/stories/mcse/avr_logo.png" height="45" hspace="10">
+</br></br>
+<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" height="35" hspace="10">
+</p>
 
 <br />
 <p align="center">
@@ -11,4 +11,7 @@
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kiedtl/winfetch.svg">
 <img alt="Made with: Wordpad" src="https://img.shields.io/badge/made%20with-wordpad-blue.svg">
 </p>
+
+
+# test #
 
