@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://www.mcselec.com/images/stories/mcse/avr_logo.png" height="45">
+<img src="https://www.mcselec.com/images/stories/mcse/avr_logo.png?raw=true" height="45">
 </br>
-<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png" height="35">
+<img src="https://edasim.com/wp-content/uploads/2020/06/edasim-integrating-ideas-logo-proteus.png?raw=true" height="35">
 </p>
 
 <p align="center">
