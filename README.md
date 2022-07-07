@@ -5,10 +5,9 @@
 </p>
 
 <p align="center">
-<img alt="asdasde" src="https://img.shields.io/badge/BASCOM_AVR - 2.0.8.5-badcff.svg"">
-<img alt="asdasde" src="https://img.shields.io/badge/OS - Windows -blue.svg">
-<img alt="Made with: Wordpad" src="https://img.shields.io/badge/Proteus - 8.13 SP0-006175.svg">
-
+<img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
+<img alt="Windows" src="https://img.shields.io/badge/OS-Windows-blue.svg">
+<img alt="Proteus" src="https://img.shields.io/badge/Proteus-8.13 SP0-006175.svg">
 </p>
 
 
