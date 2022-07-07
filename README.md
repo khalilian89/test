@@ -5,11 +5,13 @@
 
 <br />
 <p align="center">
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/kiedtl/winfetch.svg">
-<img alt="GitHub license" src="https://img.shields.io/github/license/kiedtl/winfetch.svg">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kiedtl/winfetch.svg">
-<img alt="Made with: Wordpad" src="https://img.shields.io/badge/made%20with-wordpad-blue.svg">
+
+<img alt="asdasde" src="https://img.shields.io/badge/BASCOM_AVR - 2.0.8.5-9cf.svg" hspace="10">
+<img alt="asdasde" src="https://img.shields.io/badge/OS - Windows - Green.svg" hspace="10">
+<img alt="Made with: Wordpad" src="https://img.shields.io/badge/Proteus - 8.13 SP0-blue.svg" hspace="10">
+
 </p>
+
 
 
 # test #
