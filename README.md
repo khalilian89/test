@@ -14,7 +14,7 @@
     <a href="mailto:asdada@asdasd.com">
       <img src="https://img.shields.io/badge/-Email-gray.svg?colorA=gray&colorB=4F44D6&style=for-the-badge&logo=Gmail"/>
     </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+    <a href="https://www.instagram.com/khalilian.ah/">
       <img src="https://img.shields.io/badge/-Instagram-gray.svg?colorA=gray&colorB=4CAF50&style=for-the-badge&logo=Instagram"/>
     </a>
   </p>
