@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="mailto:lunde@adobe.com"> 
+    <a href="[mailto](mailto:email@example.com)"> 
       <img src="https://img.shields.io/badge/-Gmail-gray.svg?colorA=gray&colorB=red&style=for-the-badge&logo=Gmail"/>
     </a>
     <a href="https://www.instagram.com/khalilian.ah/">
@@ -30,4 +30,5 @@
 
 
 # test #
+[mailto](mailto:email@example.com)
 
