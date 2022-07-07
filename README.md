@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="mailto:emersonpess011108@gmail.com?">
+    <a href="mailto:user@example.com">user@example.com</a>
       <img src="https://img.shields.io/badge/-Email-gray.svg?colorA=gray&colorB=4F44D6&style=for-the-badge&logo=Gmail"/>
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
