@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-<a href="https://www.awdawd@gmail.com">
+<a href="https://www.mcselec.com/">
 <img alt="BASCOM_AVR" src="https://img.shields.io/badge/BASCOM_AVR-2.0.8.5-badcff.svg">
 </a>
-<a href="https://www.awdawd@gmail.com">    
+<a href="https://www.microsoft.com/">    
 <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-blue.svg">
 </a>
-<a href="https://www.awdawd@gmail.com">
+<a href="https://www.labcenter.com/">
 <img alt="Proteus" src="https://img.shields.io/badge/Proteus-8.13 SP0-006175.svg">
 </a>
 </p>
