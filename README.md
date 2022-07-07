@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.khalilian.ah@gmail.com/"> 
+    <a href="mailto:lunde@adobe.com?subject=[GitHub] Source Han Sans"> 
       <img src="https://img.shields.io/badge/-Gmail-gray.svg?colorA=gray&colorB=red&style=for-the-badge&logo=Gmail"/>
     </a>
     <a href="https://www.instagram.com/khalilian.ah/">
