@@ -17,18 +17,17 @@
 </p>
 
 <p align="center">
-    <a href="mailto:khalilian.ah@gmail.com"> 
-      <img src="https://img.shields.io/badge/-Gmail-gray.svg?colorA=gray&colorB=red&style=for-the-badge&logo=Gmail"/>
-    </a>
-    <a href="https://www.instagram.com/khalilian.ah/">
-      <img src="https://img.shields.io/badge/-Instagram-gray.svg?colorA=gray&colorB=blueviolet&style=for-the-badge&logo=Instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/hossein-khalilian-526360243/">
-      <img src="https://img.shields.io/badge/-linkedin-gray.svg?colorA=gray&colorB=blue&style=for-the-badge&logo=linkedin"/>
-    </a>
-  </p>
-
-
+<a href="mailto:khalilian.ah@gmail.com"> 
+<img src="https://img.shields.io/badge/-Gmail-gray.svg?colorA=gray&colorB=red&style=for-the-badge&logo=Gmail"/>
+</a>
+<a href="https://www.instagram.com/khalilian.ah/">
+<img src="https://img.shields.io/badge/-Instagram-gray.svg?colorA=gray&colorB=blueviolet&style=for-the-badge&logo=Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/hossein-khalilian-526360243/">
+<img src="https://img.shields.io/badge/-linkedin-gray.svg?colorA=gray&colorB=blue&style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+</br>
 # test #
 
 
